@@ -5,7 +5,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashSet;
 import java.util.Scanner;
-
 public class UniqueVoterRegistration {
 
     private static final String DEFAULT_DATA_FILE = "voters.txt";
